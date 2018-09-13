@@ -6,7 +6,7 @@ This is my first list.
 
 1. First item
 2. Second item
-  - This is another point
+  * This is another point
 
 This is [Google](https://www.google.com)
 
